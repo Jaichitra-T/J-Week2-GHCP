@@ -32,4 +32,9 @@ The section headers should reflect the structure in the template, including the 
    - In Requirements, use bullet points to list the expected outcomes or features. Be specific and measurable
    - Provide example input/output in code blocks if helpful.
 
+### 3. Metadata Requirements
+
+- Each assignment must include an `applyTo` field in its metadata to specify which cohorts or groups this assignment applies to.
+- Example: `applyTo: ["cohort-1", "cohort-2"]`
+
 Do not include extra sections unless explicitly specified.
